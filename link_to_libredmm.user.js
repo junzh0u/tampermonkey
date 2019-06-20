@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Link to LibreDMM
 // @namespace    https://github.com/junzh0u/tampermonkey/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Link text that looks like AV code to LibreDMM page
 // @author       Jun Zhou
 // @match        http*://www.sehuatang.org/thread*
+// @match        http*://www.sehuatang.org/forum.php?mod=viewthread&tid=*
 // ==/UserScript==
 
 (function() {
